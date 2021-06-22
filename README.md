@@ -1,6 +1,6 @@
 - 👋 Hi, I’m piyush pandey
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning nodejs and working on reactjs
+- 👀 I’m interested in front-end development and MERN development.
+- 🌱 I’m currently learning nodejs and working on reactjs.
 - 📫 How to reach me thenotoriousbalor@gmail.com
 
 <!---
